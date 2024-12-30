@@ -108,3 +108,51 @@
 [01:33:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 0124fdb3-6fd7-46e6-89d1-e68aafaf2a14
 [01:36:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros has made the advancement [Hot Stuff]
 [01:37:44] [Server thread/INFO] [morpheus]: ElRamiACuadros is now sleeping. 1/2 (50%)
+[01:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[01:47:33] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@5be2dab7)
+[01:47:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros has made the advancement [We Need to Go Deeper]
+[01:47:34] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-32, 113] in dimension -1 (the_nether) while populating chunk [-31, 113], causing cascading worldgen lag.
+[01:47:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:47:34] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-32, 112] in dimension -1 (the_nether) while populating chunk [-32, 113], causing cascading worldgen lag.
+[01:47:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:47:34] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-32, 111] in dimension -1 (the_nether) while populating chunk [-32, 113], causing cascading worldgen lag.
+[01:47:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:47:35] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-33, 112] in dimension -1 (the_nether) while populating chunk [-32, 113], causing cascading worldgen lag.
+[01:47:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:47:37] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-28, 109] in dimension -1 (the_nether) while populating chunk [-27, 110], causing cascading worldgen lag.
+[01:47:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:47:37] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-29, 109] in dimension -1 (the_nether) while populating chunk [-28, 109], causing cascading worldgen lag.
+[01:47:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:47:38] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-25, 109] in dimension -1 (the_nether) while populating chunk [-24, 110], causing cascading worldgen lag.
+[01:47:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:47:38] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-26, 109] in dimension -1 (the_nether) while populating chunk [-25, 109], causing cascading worldgen lag.
+[01:47:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:47:38] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-27, 109] in dimension -1 (the_nether) while populating chunk [-25, 109], causing cascading worldgen lag.
+[01:47:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:47:38] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5722ms behind, skipping 114 tick(s)
+[01:47:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ElRamiACuadros moved too quickly! 371.12351134324615,-30.5,-1613.123980818553
+[01:48:10] [Server thread/WARN] [mca]: No skin found for profession: `openblocks:radio`. A random skin will be generated.
+[01:48:19] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-12, 129] in dimension 0 (overworld) while populating chunk [-12, 128], causing cascading worldgen lag.
+[01:48:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:48:19] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[01:48:19] [Server thread/WARN] [mca]: No skin found for profession: `openblocks:radio`. A random skin will be generated.
+[01:48:48] [Server thread/WARN] [mca]: No skin found for profession: `openblocks:radio`. A random skin will be generated.
+[01:48:48] [Server thread/WARN] [mca]: No skin found for profession: `openblocks:radio`. A random skin will be generated.
+[01:48:48] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-33, 143] in dimension 0 (overworld) while populating chunk [-33, 142], causing cascading worldgen lag.
+[01:48:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:48:48] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[01:48:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of baltacraft) moved too quickly! -8.619595345141022,0.0,5.809242656067909
+[01:48:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of baltacraft) moved too quickly! -8.95194462484693,0.0,6.031757666737576
+[01:48:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of baltacraft) moved too quickly! -9.284315622354711,0.0,6.254247167514222
+[01:48:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of baltacraft) moved too quickly! -9.61670616588367,0.0,6.47671370938815
+[01:48:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of baltacraft) moved too quickly! -9.94911430083124,0.0,6.6991595882500405
+[01:48:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of baltacraft) moved too quickly! -10.281538268055101,0.0,6.921586870401825
+[01:48:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of baltacraft) moved too quickly! -10.613976484327281,0.0,7.143997415514605
+[01:48:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of baltacraft) moved too quickly! -10.946427524742603,0.0,7.366392897292826
+[01:48:52] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2055ms behind, skipping 41 tick(s)
+[01:48:54] [Server thread/WARN] [mca]: No skin found for profession: `openblocks:radio`. A random skin will be generated.
+[01:48:54] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[01:48:55] [Server thread/WARN] [mca]: No skin found for profession: `openblocks:radio`. A random skin will be generated.
+[01:48:55] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[01:48:55] [Server thread/WARN] [mca]: No skin found for profession: `openblocks:radio`. A random skin will be generated.
+[01:49:15] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -448 | 2368 ], underground: true
