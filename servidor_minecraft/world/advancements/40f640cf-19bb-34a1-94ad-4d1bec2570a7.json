@@ -646,9 +646,21 @@
     },
     "done": true
   },
+  "fossil:fossil/stegosaurus": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-30 03:09:03 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/create_strange_scroll": {
     "criteria": {
       "has_strange_scroll": "2024-12-26 07:50:16 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/figurine": {
+    "criteria": {
+      "broken_sword": "2024-12-30 03:52:22 +0000"
     },
     "done": true
   },
@@ -667,6 +679,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-26 07:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-30 05:44:03 +0000"
     },
     "done": true
   },
@@ -703,6 +721,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-26 08:29:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-30 05:53:10 +0000"
     },
     "done": true
   },
@@ -769,6 +793,12 @@
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-26 07:03:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2024-12-30 02:46:46 +0000"
     },
     "done": true
   },
@@ -1037,6 +1067,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2024-12-28 09:21:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-30 02:09:39 +0000"
     },
     "done": true
   },
@@ -1401,6 +1437,12 @@
     },
     "done": true
   },
+  "fossil:fossil/dino_egg": {
+    "criteria": {
+      "dna": "2024-12-30 03:01:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2024-12-26 07:27:47 +0000"
@@ -1424,7 +1466,9 @@
       "cooked_porkchop": "2024-12-26 07:22:24 +0000",
       "cooked_mutton": "2024-12-26 08:34:07 +0000",
       "cooked_beef": "2024-12-27 23:38:44 +0000",
+      "baked_potato": "2024-12-30 03:48:41 +0000",
       "apple": "2024-12-26 07:25:11 +0000",
+      "potato": "2024-12-30 05:52:05 +0000",
       "melon": "2024-12-26 07:16:54 +0000",
       "bread": "2024-12-26 07:09:48 +0000",
       "golden_apple": "2024-12-28 08:45:25 +0000",
@@ -1958,6 +2002,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-30 05:12:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-26 07:19:32 +0000"
@@ -2114,6 +2164,12 @@
     },
     "done": true
   },
+  "fossil:fossil/failuresaurus": {
+    "criteria": {
+      "killed_by": "2024-12-30 03:01:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2024-12-26 07:27:47 +0000"
@@ -2267,6 +2323,12 @@
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2024-12-28 09:21:17 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/broken_sword": {
+    "criteria": {
+      "broken_helmet": "2024-12-30 04:04:01 +0000"
     },
     "done": true
   },
