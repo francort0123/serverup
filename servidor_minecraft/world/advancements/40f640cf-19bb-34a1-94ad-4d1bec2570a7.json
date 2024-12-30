@@ -1174,6 +1174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2024-12-30 00:53:40 +0000"
+    },
+    "done": true
+  },
   "advancedrocketry:normal/root": {
     "criteria": {
       "crafting_table": "2024-12-26 07:03:23 +0000"
@@ -2135,6 +2141,12 @@
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2024-12-28 09:21:17 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/bottled_milk": {
+    "criteria": {
+      "has_milk": "2024-12-30 00:38:50 +0000"
     },
     "done": true
   },

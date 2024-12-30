@@ -77,3 +77,12 @@
 [00:37:08] [Server thread/INFO] [mca]: Villager death: Herlinda. Caused by: Zombie. UUID: 2c6eda43-87c3-4dba-a2d9-a318511709a0
 [00:38:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft has made the advancement [Eggs!]
 [00:38:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft has made the advancement [Half Duck, Half Crocodile]
+[00:38:40] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-154, 118] in dimension 0 (overworld) while populating chunk [-153, 119], causing cascading worldgen lag.
+[00:38:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:42] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[00:38:51] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-154, 119] in dimension 0 (overworld) while populating chunk [-155, 118], causing cascading worldgen lag.
+[00:38:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:51] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-155, 119] in dimension 0 (overworld) while populating chunk [-155, 118], causing cascading worldgen lag.
+[00:38:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[00:57:08] [Server thread/INFO] [mca]: Villager death: Eugenie. Caused by: Zombie. UUID: 545d887f-ece8-406f-9bd4-dc2a7a70fbfc
