@@ -45,3 +45,13 @@
 [00:07:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [00:07:01] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -2352 | 1600 ], underground: false
 [00:07:30] [Server thread/INFO] [Scaling Health]: Blight Zombie was killed by ElRamiACuadros
+[00:13:01] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-150, 107] in dimension 0 (overworld) while populating chunk [-150, 108], causing cascading worldgen lag.
+[00:13:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:13:01] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-151, 107] in dimension 0 (overworld) while populating chunk [-150, 107], causing cascading worldgen lag.
+[00:13:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:14:31] [Server thread/INFO] [mca]: Villager death: Evan. Caused by: Zombie. UUID: 115670a7-89b7-4a6d-8d77-e5abb13d06df
+[00:15:42] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-144, 95] in dimension 0 (overworld) while populating chunk [-143, 95], causing cascading worldgen lag.
+[00:15:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:15:48] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-145, 94] in dimension 0 (overworld) while populating chunk [-144, 94], causing cascading worldgen lag.
+[00:15:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:18:18] [Server thread/INFO] [mca]: Villager death: Jessica. Caused by: inWall. UUID: 62e99c7c-a577-4af6-88eb-aa974c58e3c8
