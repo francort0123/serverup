@@ -55,3 +55,25 @@
 [00:15:48] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-145, 94] in dimension 0 (overworld) while populating chunk [-144, 94], causing cascading worldgen lag.
 [00:15:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [00:18:18] [Server thread/INFO] [mca]: Villager death: Jessica. Caused by: inWall. UUID: 62e99c7c-a577-4af6-88eb-aa974c58e3c8
+[00:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[00:22:31] [Server thread/INFO] [Scaling Health]: Blight Zombie was killed by ElRamiACuadros
+[00:23:41] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-152, 102] in dimension 0 (overworld) while populating chunk [-151, 102], causing cascading worldgen lag.
+[00:23:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:23:41] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-152, 103] in dimension 0 (overworld) while populating chunk [-151, 104], causing cascading worldgen lag.
+[00:23:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:23:41] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-152, 104] in dimension 0 (overworld) while populating chunk [-152, 103], causing cascading worldgen lag.
+[00:23:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:23:41] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-153, 104] in dimension 0 (overworld) while populating chunk [-152, 103], causing cascading worldgen lag.
+[00:23:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:23:41] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-153, 103] in dimension 0 (overworld) while populating chunk [-152, 103], causing cascading worldgen lag.
+[00:23:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:24:18] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[00:27:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[00:29:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft has made the advancement [The Crucible]
+[00:35:23] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[00:36:22] [Server thread/INFO] [mca]: Villager death: Heike. Caused by: Zombie. UUID: 4f7df691-99fe-4432-9352-ef457e80af2f
+[00:36:39] [Server thread/INFO] [mca]: Villager death: Carli. Caused by: baltacraft. UUID: 1297226b-2026-4369-8fc1-4afe63dba09f
+[00:36:40] [Server thread/INFO] [mca]: Villager death: Adolfo. Caused by: Zombie. UUID: d9ba1f81-7d92-4b0a-959f-300030be2cd7
+[00:37:08] [Server thread/INFO] [mca]: Villager death: Herlinda. Caused by: Zombie. UUID: 2c6eda43-87c3-4dba-a2d9-a318511709a0
+[00:38:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft has made the advancement [Eggs!]
+[00:38:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft has made the advancement [Half Duck, Half Crocodile]
