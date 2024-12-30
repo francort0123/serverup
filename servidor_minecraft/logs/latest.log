@@ -86,3 +86,16 @@
 [00:38:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [00:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
 [00:57:08] [Server thread/INFO] [mca]: Villager death: Eugenie. Caused by: Zombie. UUID: 545d887f-ece8-406f-9bd4-dc2a7a70fbfc
+[00:59:21] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@5be2dab7)
+[00:59:24] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:59:25] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2596ms behind, skipping 51 tick(s)
+[01:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[01:03:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft has made the advancement [Read all about it!]
+[01:10:20] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 0ffd7c01-0e87-4485-8f4e-d8ca633d10bf
+[01:10:20] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 32b55d22-5c1e-4eb7-bd57-fd875d00d3b2
+[01:10:20] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bd063695-1d30-4cd2-adef-030db5a57c1e
+[01:10:20] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 0124fdb3-6fd7-46e6-89d1-e68aafaf2a14
+[01:12:39] [Server thread/INFO] [mca]: Villager death: Wesley. Caused by: Sea Serpent. UUID: 274c9cfb-4a22-494c-9ca1-1a1cb47ddc56
+[01:13:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bd063695-1d30-4cd2-adef-030db5a57c1e
+[01:13:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 0ffd7c01-0e87-4485-8f4e-d8ca633d10bf
+[01:13:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 0124fdb3-6fd7-46e6-89d1-e68aafaf2a14
