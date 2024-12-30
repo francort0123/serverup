@@ -32331,3 +32331,181 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [01:29:17] [Server thread/DEBUG] [FML]: The world 3802b770 (world) may have leaked: seen 180 times.
 
 [01:29:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:29:57] [Server thread/DEBUG] [FML]: The world 64f028d0 (world) may have leaked: seen 1340 times.
+
+[01:29:57] [Server thread/DEBUG] [FML]: The world 3a1e3d7e (world) may have leaked: seen 1340 times.
+
+[01:29:57] [Server thread/DEBUG] [FML]: The world 543a07b6 (world) may have leaked: seen 1340 times.
+
+[01:29:57] [Server thread/DEBUG] [FML]: The world 54a05ca9 (world) may have leaked: seen 1340 times.
+
+[01:29:57] [Server thread/DEBUG] [FML]: The world 42d88f34 (world) may have leaked: seen 1340 times.
+
+[01:30:07] [Server thread/DEBUG] [FML]: The world 3802b770 (world) may have leaked: seen 185 times.
+
+[01:30:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:30:39] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Piranha is 0.01
+[01:30:47] [Server thread/DEBUG] [FML]: The world 64f028d0 (world) may have leaked: seen 1345 times.
+
+[01:30:47] [Server thread/DEBUG] [FML]: The world 3a1e3d7e (world) may have leaked: seen 1345 times.
+
+[01:30:47] [Server thread/DEBUG] [FML]: The world 543a07b6 (world) may have leaked: seen 1345 times.
+
+[01:30:47] [Server thread/DEBUG] [FML]: The world 54a05ca9 (world) may have leaked: seen 1345 times.
+
+[01:30:47] [Server thread/DEBUG] [FML]: The world 42d88f34 (world) may have leaked: seen 1345 times.
+
+[01:30:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:30:57] [Server thread/DEBUG] [FML]: The world 3802b770 (world) may have leaked: seen 190 times.
+
+[01:31:37] [Server thread/DEBUG] [FML]: The world 64f028d0 (world) may have leaked: seen 1350 times.
+
+[01:31:37] [Server thread/DEBUG] [FML]: The world 3a1e3d7e (world) may have leaked: seen 1350 times.
+
+[01:31:37] [Server thread/DEBUG] [FML]: The world 543a07b6 (world) may have leaked: seen 1350 times.
+
+[01:31:37] [Server thread/DEBUG] [FML]: The world 54a05ca9 (world) may have leaked: seen 1350 times.
+
+[01:31:37] [Server thread/DEBUG] [FML]: The world 42d88f34 (world) may have leaked: seen 1350 times.
+
+[01:31:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:31:47] [Server thread/DEBUG] [FML]: The world 3802b770 (world) may have leaked: seen 195 times.
+
+[01:32:19] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cave Spider is 0.01
+[01:32:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:32:27] [Server thread/DEBUG] [FML]: The world 64f028d0 (world) may have leaked: seen 1355 times.
+
+[01:32:27] [Server thread/DEBUG] [FML]: The world 3a1e3d7e (world) may have leaked: seen 1355 times.
+
+[01:32:27] [Server thread/DEBUG] [FML]: The world 543a07b6 (world) may have leaked: seen 1355 times.
+
+[01:32:27] [Server thread/DEBUG] [FML]: The world 54a05ca9 (world) may have leaked: seen 1355 times.
+
+[01:32:27] [Server thread/DEBUG] [FML]: The world 42d88f34 (world) may have leaked: seen 1355 times.
+
+[01:32:37] [Server thread/DEBUG] [FML]: The world 3802b770 (world) may have leaked: seen 200 times.
+
+[01:32:38] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Piranha is 0.01
+[01:33:00] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Coelacanth is 0.001
+[01:33:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:33:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 0ffd7c01-0e87-4485-8f4e-d8ca633d10bf
+[01:33:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bd063695-1d30-4cd2-adef-030db5a57c1e
+[01:33:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 32b55d22-5c1e-4eb7-bd57-fd875d00d3b2
+[01:33:17] [Server thread/DEBUG] [FML]: The world 64f028d0 (world) may have leaked: seen 1360 times.
+
+[01:33:17] [Server thread/DEBUG] [FML]: The world 3a1e3d7e (world) may have leaked: seen 1360 times.
+
+[01:33:17] [Server thread/DEBUG] [FML]: The world 543a07b6 (world) may have leaked: seen 1360 times.
+
+[01:33:17] [Server thread/DEBUG] [FML]: The world 54a05ca9 (world) may have leaked: seen 1360 times.
+
+[01:33:17] [Server thread/DEBUG] [FML]: The world 42d88f34 (world) may have leaked: seen 1360 times.
+
+[01:33:20] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity minecraft:item but it was marked as removed already
+[01:33:24] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Coelacanth is 0.001
+[01:33:27] [Server thread/DEBUG] [FML]: The world 3802b770 (world) may have leaked: seen 205 times.
+
+[01:33:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 0124fdb3-6fd7-46e6-89d1-e68aafaf2a14
+[01:33:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:34:07] [Server thread/DEBUG] [FML]: The world 64f028d0 (world) may have leaked: seen 1365 times.
+
+[01:34:07] [Server thread/DEBUG] [FML]: The world 3a1e3d7e (world) may have leaked: seen 1365 times.
+
+[01:34:07] [Server thread/DEBUG] [FML]: The world 543a07b6 (world) may have leaked: seen 1365 times.
+
+[01:34:07] [Server thread/DEBUG] [FML]: The world 54a05ca9 (world) may have leaked: seen 1365 times.
+
+[01:34:07] [Server thread/DEBUG] [FML]: The world 42d88f34 (world) may have leaked: seen 1365 times.
+
+[01:34:17] [Server thread/DEBUG] [FML]: The world 3802b770 (world) may have leaked: seen 210 times.
+
+[01:34:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:34:57] [Server thread/DEBUG] [FML]: The world 64f028d0 (world) may have leaked: seen 1370 times.
+
+[01:34:57] [Server thread/DEBUG] [FML]: The world 3a1e3d7e (world) may have leaked: seen 1370 times.
+
+[01:34:57] [Server thread/DEBUG] [FML]: The world 543a07b6 (world) may have leaked: seen 1370 times.
+
+[01:34:57] [Server thread/DEBUG] [FML]: The world 54a05ca9 (world) may have leaked: seen 1370 times.
+
+[01:34:57] [Server thread/DEBUG] [FML]: The world 42d88f34 (world) may have leaked: seen 1370 times.
+
+[01:35:07] [Server thread/DEBUG] [FML]: The world 3802b770 (world) may have leaked: seen 215 times.
+
+[01:35:21] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[01:35:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:35:47] [Server thread/DEBUG] [FML]: The world 64f028d0 (world) may have leaked: seen 1375 times.
+
+[01:35:47] [Server thread/DEBUG] [FML]: The world 3a1e3d7e (world) may have leaked: seen 1375 times.
+
+[01:35:47] [Server thread/DEBUG] [FML]: The world 543a07b6 (world) may have leaked: seen 1375 times.
+
+[01:35:47] [Server thread/DEBUG] [FML]: The world 54a05ca9 (world) may have leaked: seen 1375 times.
+
+[01:35:47] [Server thread/DEBUG] [FML]: The world 42d88f34 (world) may have leaked: seen 1375 times.
+
+[01:35:57] [Server thread/DEBUG] [FML]: The world 3802b770 (world) may have leaked: seen 220 times.
+
+[01:36:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:36:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros has made the advancement [Hot Stuff]
+[01:36:37] [Server thread/DEBUG] [FML]: The world 64f028d0 (world) may have leaked: seen 1380 times.
+
+[01:36:37] [Server thread/DEBUG] [FML]: The world 3a1e3d7e (world) may have leaked: seen 1380 times.
+
+[01:36:37] [Server thread/DEBUG] [FML]: The world 543a07b6 (world) may have leaked: seen 1380 times.
+
+[01:36:37] [Server thread/DEBUG] [FML]: The world 54a05ca9 (world) may have leaked: seen 1380 times.
+
+[01:36:37] [Server thread/DEBUG] [FML]: The world 42d88f34 (world) may have leaked: seen 1380 times.
+
+[01:36:47] [Server thread/DEBUG] [FML]: The world 3802b770 (world) may have leaked: seen 225 times.
+
+[01:36:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:36:59] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[01:37:01] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[01:37:14] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[01:37:23] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[01:37:27] [Server thread/DEBUG] [FML]: The world 64f028d0 (world) may have leaked: seen 1385 times.
+
+[01:37:27] [Server thread/DEBUG] [FML]: The world 3a1e3d7e (world) may have leaked: seen 1385 times.
+
+[01:37:27] [Server thread/DEBUG] [FML]: The world 543a07b6 (world) may have leaked: seen 1385 times.
+
+[01:37:27] [Server thread/DEBUG] [FML]: The world 54a05ca9 (world) may have leaked: seen 1385 times.
+
+[01:37:27] [Server thread/DEBUG] [FML]: The world 42d88f34 (world) may have leaked: seen 1385 times.
+
+[01:37:33] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[01:37:37] [Server thread/DEBUG] [FML]: The world 3802b770 (world) may have leaked: seen 230 times.
+
+[01:37:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:37:44] [Server thread/INFO] [morpheus]: ElRamiACuadros is now sleeping. 1/2 (50%)
+[01:38:14] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Piranha is 0.01
+[01:38:17] [Server thread/DEBUG] [FML]: The world 64f028d0 (world) may have leaked: seen 1390 times.
+
+[01:38:17] [Server thread/DEBUG] [FML]: The world 3a1e3d7e (world) may have leaked: seen 1390 times.
+
+[01:38:17] [Server thread/DEBUG] [FML]: The world 543a07b6 (world) may have leaked: seen 1390 times.
+
+[01:38:17] [Server thread/DEBUG] [FML]: The world 54a05ca9 (world) may have leaked: seen 1390 times.
+
+[01:38:17] [Server thread/DEBUG] [FML]: The world 42d88f34 (world) may have leaked: seen 1390 times.
+
+[01:38:17] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Piranha is 0.01
+[01:38:18] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Piranha is 0.01
+[01:38:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:38:27] [Server thread/DEBUG] [FML]: The world 3802b770 (world) may have leaked: seen 235 times.
+
+[01:39:07] [Server thread/DEBUG] [FML]: The world 64f028d0 (world) may have leaked: seen 1395 times.
+
+[01:39:07] [Server thread/DEBUG] [FML]: The world 3a1e3d7e (world) may have leaked: seen 1395 times.
+
+[01:39:07] [Server thread/DEBUG] [FML]: The world 543a07b6 (world) may have leaked: seen 1395 times.
+
+[01:39:07] [Server thread/DEBUG] [FML]: The world 54a05ca9 (world) may have leaked: seen 1395 times.
+
+[01:39:07] [Server thread/DEBUG] [FML]: The world 42d88f34 (world) may have leaked: seen 1395 times.
+
+[01:39:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:39:17] [Server thread/DEBUG] [FML]: The world 3802b770 (world) may have leaked: seen 240 times.
+

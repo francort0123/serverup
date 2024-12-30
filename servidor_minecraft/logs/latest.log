@@ -101,3 +101,10 @@
 [01:13:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 0124fdb3-6fd7-46e6-89d1-e68aafaf2a14
 [01:19:15] [Server thread/INFO] [mca]: Villager death: Breanne. Caused by: drown. UUID: 48557460-f7dd-4c92-b865-a4f7a02aa7dd
 [01:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[01:33:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 0ffd7c01-0e87-4485-8f4e-d8ca633d10bf
+[01:33:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bd063695-1d30-4cd2-adef-030db5a57c1e
+[01:33:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 32b55d22-5c1e-4eb7-bd57-fd875d00d3b2
+[01:33:20] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity minecraft:item but it was marked as removed already
+[01:33:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 0124fdb3-6fd7-46e6-89d1-e68aafaf2a14
+[01:36:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros has made the advancement [Hot Stuff]
+[01:37:44] [Server thread/INFO] [morpheus]: ElRamiACuadros is now sleeping. 1/2 (50%)
